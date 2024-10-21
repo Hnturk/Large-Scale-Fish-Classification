@@ -29,6 +29,8 @@ Veri seti, her bir balık türü için 1000 adet artırılmış görüntü içer
 
 ## Sonuçlar
 
-Eğitim ve test sürecinde modelin doğruluk ve kayıp değerleri izlenmiş, ve şu sonuçlara ulaşılmıştır.
+Eğitim ve test sürecinde modelin doğruluk ve kayıp değerleri izlenmiş, ve güncel olarak şu sonuçlara ulaşılmıştır.
 - Test Kaybı: 0.27224
 - Test Doğruluğu: 91.67%
+
+Kaggle Notebook Linki: https://www.kaggle.com/code/mehmethantrk/large-scale-fish-classification-ann
